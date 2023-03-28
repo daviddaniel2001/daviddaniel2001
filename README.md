@@ -1,5 +1,5 @@
 
-### Olá, seja bem vindo ao meu mundo! Sou o David Daniel e sou aluno do curso de Sistemas de Informação, na Universidade Estadual do Tocantins 👾
+### Olá, seja bem vindo ao meu mundo!👾
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_p_d_s/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-daniel-14986526b/)
 
