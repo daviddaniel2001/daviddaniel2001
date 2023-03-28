@@ -2,7 +2,6 @@
 ### Olá, seja bem vindo ao meu mundo! Sou o David Daniel 👾
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_p_d_s/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-daniel-14986526b/)
-[![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://dashboard.twitch.tv/u/champs_dev/settings/channel)
 
 
 ![David Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddaniel2001&show_icons=true&theme=radical)
